@@ -1,0 +1,16 @@
+{
+  "name": "alx-project-0x07",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
